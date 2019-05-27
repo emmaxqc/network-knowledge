@@ -76,4 +76,6 @@ HTTP响应报文包括：**状态行、响应头部、响应正文**三部分，
 ***响应报文总结：***
 ![HTTP响应报文总结](https://raw.githubusercontent.com/emmaxqc/network-knowledge/master/HTTP%20%26%20HTTPS%20Protocol/HTTP%E5%93%8D%E5%BA%94%E6%8A%A5%E6%96%87%E6%80%BB%E7%BB%93.png)
 
+## 5. HTTP处理长连接
 
+![HTTP长连接](https://raw.githubusercontent.com/emmaxqc/network-knowledge/master/HTTP%20Protocol/HTTP%E5%A4%84%E7%90%86%E9%95%BF%E8%BF%9E%E6%8E%A5%E8%BF%87%E7%A8%8B%E7%A4%BA%E6%84%8F%E5%9B%BE.jpg)
